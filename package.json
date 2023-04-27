@@ -1,0 +1,29 @@
+{
+  "name": "typescript-vscode-watcher",
+  "version": "1.0.0",
+  "description": "Prototype file and directory watcher where vscode will watch the files and directories",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheetalkamat/typescript-vscode-watcher.git"
+  },
+  "keywords": [
+    "typescript",
+    "vscode",
+    "watcher"
+  ],
+  "author": "Sheetal Nandi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sheetalkamat/typescript-vscode-watcher/issues"
+  },
+  "homepage": "https://github.com/sheetalkamat/typescript-vscode-watcher#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "https://typescript.visualstudio.com/cf7ac146-d525-443c-b23c-0d58337efebc/_apis/build/builds/153693/artifacts?artifactName=tgz&fileId=26EF50313EF6DC11AE5939709DA47D6DF2E2C014E54C4C193726E4789CA04AC702&fileName=/typescript-5.1.0-insiders.20230502.tgz"
+  }
+}
