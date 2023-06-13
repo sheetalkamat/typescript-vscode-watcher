@@ -1,4 +1,4 @@
-# typescript-parcel-watcher
+# typescript-vscode-watcher
 Prototype file and directory watcher where vscode will watch the files and directories
 
 ## Installing
